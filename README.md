@@ -1,7 +1,7 @@
-- Hi, I’m Peter Yong
-- Previously at Scripps Research, NIH, and University of Minnesota
-- I’m interested in exploring immunology through computational biology
-- I’m currently learning to use Next Generation Sequencing to identify broadly neutralizing antibodies against various viruses
+- Hi, I’m Peter!
+- Previously at Scripps Research, NIH, and University of Minnesota.
+- MD/PhD student entering 2023.
+- I’m interested in viral immunology and cancer immunotherapeutics.
 - You can see my ORCID here: https://orcid.org/0000-0002-4899-3270
 
 
