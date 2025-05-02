@@ -1,7 +1,7 @@
 - Hi, I’m Peter
 - MD/PhD student at the University of Washington. 
 - Previously at Scripps Research, NIH, and University of Minnesota.
-- Interested in developing cancer immunotherapeutics.
+- Studying bladder cancer at Fred Hutch.
 - You can see my ORCID here: https://orcid.org/0000-0002-4899-3270
 
 
